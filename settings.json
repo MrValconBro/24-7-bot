@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Joinvalconsmp.aternos.me
-
-    ",
+    "ip": "Joinvalconsmp.aternos.me",
     "port": 17732,
     "version": "1.20.1",
     "try-creative": false
